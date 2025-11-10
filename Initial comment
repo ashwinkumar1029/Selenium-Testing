@@ -1,0 +1,24 @@
+GIT
+
+ - GIT is a version control system
+ - found by Linus Torvalds(Person who found LINUX operating system)
+
+Basic GITHUB Terminologies
+
+1.Repositories
+  - A folder that contains all the files related to the project
+2.Read me file (basic instruction about the project)
+3.Commit (Saving File)
+
+Advanced GITHUB Terminologies
+
+4.Branch
+5.Merge
+6.Fork
+7.Pull Request
+
+What is GIT HUB?
+
+-GIT HUB is a web based hosting service for software code www.github.com
+-Provides version control using GIT
+-It is a collaborative tool which helps multiple users to work on a single project without much difficulties.
